@@ -1,0 +1,26 @@
+
+[<module 'time' (built-in)>] local variable 'group' referenced before assignment
+[<module 'time' (built-in)>] name 'text' is not defined
+[<module 'time' (built-in)>] name 'text' is not defined
+[<module 'time' (built-in)>] name 'text' is not defined
+[<module 'time' (built-in)>] name 'text' is not defined
+[<module 'time' (built-in)>] [Errno 2] No such file or directory
+[<module 'time' (built-in)>] [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:2607)
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:2607)
+[<module 'time' (built-in)>] [Errno 2] No such file or directory
+[<module 'time' (built-in)>] 'img'
+[<module 'time' (built-in)>] 'img'
+[<module 'time' (built-in)>] 'img'
+[<module 'time' (built-in)>] name 'contact' is not defined
+[<module 'time' (built-in)>] name 'contact' is not defined
+[<module 'time' (built-in)>] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] [Errno 28] No space left on device
+[<module 'time' (built-in)>] Download file failure.
+[<module 'time' (built-in)>] Download file failure.
+[<module 'time' (built-in)>] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[<module 'time' (built-in)>] [Errno 28] No space left on device
+[<module 'time' (built-in)>] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[<module 'time' (built-in)>] [Errno 28] No space left on device
+[<module 'time' (built-in)>] [Errno 28] No space left on device
